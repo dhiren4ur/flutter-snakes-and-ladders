@@ -16,7 +16,10 @@ https://play.google.com/store/apps/details?id=com.devdhiren.snacks_ladders
 - Android SDK
 
 ## 📸 Screenshots
-(Add screenshots here)
+![Game](screenshot/home.jpg)
+![Game](screenshot/game_rule.jpg)
+![Game](screenshot/player.jpg)
+![Game](screenshot/game_board.jpg)
 
 ## 🚀 Installation
 1. Clone the repository
