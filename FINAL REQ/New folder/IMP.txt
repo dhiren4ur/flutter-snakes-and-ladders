@@ -1,0 +1,20 @@
+path: C:\snacks_ladders -offline\FINAL REQ\snk.jks
+pw: snk100873
+alias: snkalias
+pw: snk100873
+Dhiren Panchal
+Dev_Dhiren
+nil
+Vadodara
+Gujarat
+91
+
+Release Name: snk_rel_1.0.2
+
+defaultConfig {
+        applicationId = "com.devdhiren.snacks_ladders"
+        minSdk = 23
+        targetSdk = 34
+        versionCode = 1
+        versionName = "1.0.0"
+    }
