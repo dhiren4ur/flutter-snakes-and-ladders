@@ -1,16 +1,27 @@
-# snacks_ladders
+# 🎮 Snakes & Ladders Game (Flutter)
 
-twisted snacks and ladders
+A classic Snakes & Ladders board game built using Flutter and published on Google Play Store.
 
-## Getting Started
+## 📱 Play Store
+https://play.google.com/store/apps/details?id=com.devdhiren.snacks_ladders
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Classic Snakes & Ladders gameplay
+- Smooth animations
+- Simple and clean UI
+- Lightweight and fast performance
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
+- Flutter (Dart)
+- Android SDK
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
+(Add screenshots here)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Installation
+1. Clone the repository
+2. Run `flutter pub get`
+3. Run the app
+
+## 👨‍💻 Author
+Dhiren Panchal
